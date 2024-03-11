@@ -3,7 +3,7 @@
 - 👀 I’m interested in Technology, Front End Developemnt using HTML5, CSS, JS, React, Next.  
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me shivanipatil5307@gmail.com
-
+  
 
 <!---
 patilshivani22/patilshivani22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
